@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1627060360 source:e:\vaccine management system part 2\vaccine management system updated version\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<conio.h>
+	<fstream>
+	<windows.h>
+	"../conio2.h"
+
+1627059777 source:e:\vaccine management system part 2\vaccine management system updated version\rapid covid test.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"../conio3.h"
+
+1627059695 source:e:\vaccine management system part 2\vaccine management system updated version\vaccine inventory.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<conio.h>
+	<fstream>
+	<windows.h>
+	"../conio2.h"
+
+1627108797 source:e:\vaccine management system part 2\vaccine management system updated version\vaccine dose registration.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<conio.h>
+	<fstream>
+	<windows.h>
+	<time.h>
+	"../conio2.h"
+
+1627059908 source:e:\vaccine management system part 2\vaccine management system updated version\searching.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<iomanip>
+	<time.h>
+	"../conio2.h"
+
+1619802895 source:e:\vaccine management system part 2\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1619802794 e:\vaccine management system part 2\conio2.h
+	<conio.h>
+	<windows.h>
+
+1622827538 e:\vaccine management system part 2\conio3.h
+	<conio.h>
+	<windows.h>
+
+1634534580 source:f:\vaccine management system part 2\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1634534580 f:\vaccine management system part 2\conio2.h
+	<conio.h>
+	<windows.h>
+
+1638440475 source:f:\vaccine management system part 2\vaccine management system updated version\rapid covid test.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"../conio3.h"
+
+1634534580 f:\vaccine management system part 2\conio3.h
+	<conio.h>
+	<windows.h>
+
+1638440685 source:f:\vaccine management system part 2\vaccine management system updated version\searching.cpp
+	<stdio.h>
+	<iostream>
+	<fstream>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<iomanip>
+	<time.h>
+	"../conio2.h"
+
+1638440723 source:f:\vaccine management system part 2\vaccine management system updated version\vaccine dose registration.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<conio.h>
+	<fstream>
+	<windows.h>
+	<time.h>
+	"../conio2.h"
+
+1638440588 source:f:\vaccine management system part 2\vaccine management system updated version\vaccine inventory.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<conio.h>
+	<fstream>
+	<windows.h>
+	"../conio2.h"
+
+1638440922 source:f:\vaccine management system part 2\vaccine management system updated version\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<conio.h>
+	<fstream>
+	<windows.h>
+	"../conio2.h"
+
